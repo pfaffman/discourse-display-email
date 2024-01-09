@@ -1,0 +1,9 @@
+en:
+  admin_js:
+    admin:
+      site_settings:
+        categories:
+          display-email: "Sync Email to UCF"
+  js:
+    display-email:
+      placeholder: placeholder

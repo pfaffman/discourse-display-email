@@ -1,0 +1,4 @@
+display_email:
+  display_email_enabled:
+    default: true
+    client: true
