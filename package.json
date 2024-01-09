@@ -1,7 +1,7 @@
 {
-  "name": "display-email",
+  "name": "discourse-display-email",
   "version": "0.0.1",
-  "repository": "https://github.com/pfaffman/display-email",
+  "repository": "https://github.com/pfaffman/discourse-display-email",
   "author": "pfaffman",
   "license": "MIT",
   "devDependencies": {
