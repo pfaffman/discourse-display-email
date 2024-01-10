@@ -1,0 +1,18 @@
+// .display-email {
+//   color: purple;
+//   background-color: green !important;
+//   font-size: var(--font-0);
+//   margin-top: 0.5em;
+//   overflow: hidden;
+//   white-space: nowrap;
+//   text-overflow: ellipsis;
+// }
+
+.user-profile__featured-topic,
+.user-profile__location-and-website {
+  font-size: var(--font-0);
+  margin-top: 0.5em;
+  overflow: hidden;
+  white-space: nowrap;
+  text-overflow: ellipsis;
+}
