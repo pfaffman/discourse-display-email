@@ -17,8 +17,5 @@ end
 require_relative "lib/discourse_display_email/engine"
 
 after_initialize do
-  add_to_serializer(:user_card, :email) do
-    puts "selfserial #{self}"
-    scope.anonymous? ? nil : self.user.email
-  end
+  add_to_serializer(:user_card, :email) { scope.anonymous? ? nil : self.user.email }
 end
