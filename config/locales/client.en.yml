@@ -3,7 +3,7 @@ en:
     admin:
       site_settings:
         categories:
-          display-email: "Sync Email to UCF"
+          display_email: "Display Email"
   js:
     display-email:
       placeholder: placeholder
